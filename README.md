@@ -3,3 +3,4 @@
 
 ### And this is another header
 
+[a relative link](test.md)
