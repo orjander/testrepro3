@@ -3,6 +3,6 @@
 
 ### And this is another header
 
-[a relative link](test.md)
+[test.md](test.md)
 
-[a relative link](README.md)
+[README.md](README.md)
